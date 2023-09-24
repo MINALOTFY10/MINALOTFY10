@@ -24,7 +24,6 @@
     width="40"
     height="40"
   />
-
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
     alt="javascript"
@@ -37,14 +36,12 @@
     width="40"
     height="40"
   />
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
       alt="redux"
       width="40"
       height="40"
     />
-  </a>
   <img
     src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
     alt="nextjs"
