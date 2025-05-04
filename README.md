@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mina Lotfy</h1>
-<h3 align="center">A frontend developer from Cairo, Egypt</h3>
+<h3 align="center">Full Stack Developer | Cairo, Egypt | Passionate about building scalable web applications</h3>
 
 - 📫 How to reach me **menalotfy665@gmail.com**
 
