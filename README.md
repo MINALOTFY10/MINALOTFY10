@@ -19,4 +19,4 @@ ASP.NET Web API • PostgreSQL • SQL Server • Prisma ORM • Firebase • SQ
 
 📫 menalotfy665@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/minalotfy  
-🌐 Portfolio: https://mina-lotfy-portfolio.vercel.app
+🌐 Portfolio: [https://mina-lotfy.app](https://minalotfy.vercel.app/)
